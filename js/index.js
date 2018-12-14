@@ -34,14 +34,6 @@ $(document).ready(function () {
       profilePic: 'img/gurion_marks.jpg'
     },
     {
-      name: 'Haldo Treviño II',
-      year: 2018,
-      school: 'KSAS',
-      major: 'Neuroscience',
-      summary: 'Haldo is a neuroscience major from the Rio Grande Valley located in South Texas. He is a Gates Millennium Scholar, research assistant in the Brain Tumor Stem Cell Lab at the medical campus and a Johns Hopkins Underrepresented in Medicine Program mentor. Outside of academics, he enjoys painting and drawing with various mediums, particularly oil on canvas.',
-      profilePic: 'img/haldo_trevino.jpg'
-    },
-    {
       name: 'Alina Andrews',
       year: 2019,
       position: 'Director of Internal Affairs',
@@ -49,14 +41,6 @@ $(document).ready(function () {
       major: 'Biomedical Engineering',
       summary: 'Alina is a Biomedical Engineering major and an Africana Studies minor from Miami, FL. She is a part of the JUMP and Hop-In programs through the Office of Multicultural Affairs.  She also has a passion for travel and has studied abroad and traveled to Brazil, England, Scotland, and France. Alina hopes to combine both her academic and travel interests to start a career in Global Medicine.',
       profilePic: 'img/alina.andrews.jpg'
-    },
-    {
-      name: 'Aliza Berger',
-      year: 2019,
-      school: 'KSAS',
-      major: 'International Studies',
-      summary: ' ',
-      profilePic: 'img/aliza_berger.jpg'
     },
     {
       name: 'Anthony Garay',
@@ -68,12 +52,13 @@ $(document).ready(function () {
       profilePic: 'img/anthony_garay.jpg'
     },
     {
-      name: 'Corine Peifer',
-      year: 2019,
+      name: 'Ashley Wax',
+      year: 2020,
+      position: 'Director of Student Events',
       school: 'KSAS',
-      major: 'Public Health',
-      summary: 'Corine is a Public Health Studies major from Scranton, Pennsylvania. Minoring in Social Policy and Entrepreneurship & Management, she plans on pursuing a career in health policy and management. She is a member of Pi Beta Phi and Eclectics Dance, while she also holds an executive board position within the Hopkins Organization for Programming (HOP), the Hoptoberfest planning board, and the Panhellenic Association at Johns Hopkins (PAJH).',
-      profilePic: 'img/corine_peifer.jpg'
+      major: 'International Studies; Sociology; Spanish',
+      summary: 'Ashley is a triple major in International Studies, Sociology, and Spanish. She is the assistant music director of the Sirens, JHU\'s all-female a cappella group, in addition to serving as a tutor through the Tutorial Project. She also acts as a mentor to first-year students through the Mentoring Assistance Peer Program (MAPP).',
+      profilePic: 'img/ashley_wax.jpg'
     },
     {
       name: 'Paige Frank',
@@ -84,14 +69,6 @@ $(document).ready(function () {
       profilePic: 'img/paige_frank.jpg'
     },
     {
-      name: 'Shravya Gogula',
-      year: 2019,
-      school: 'WSE',
-      major: 'Biomedical Engineering',
-      summary: 'Shravya is a junior Biomedical Engineering Major and Spanish Minor on the Pre-Med track from Chicago, Illinois. She holds a position as the Committee Chair on the Biomedical Engineering Society board, and is a head volunteer for the Adult Emergency Department volunteer program that takes place at the Johns Hopkins Hospital. Shravya is also on the planning committee for MedHacks, a volunteer through Charm City Science League, a member of Kappa Kappa Gamma, and is currently doing research in a tissue engineering lab.',
-      profilePic: 'img/shravya_gogula.jpg'
-    },
-    {
       name: 'Teja Rao',
       year: 2019,
       school: 'KSAS',
@@ -100,21 +77,36 @@ $(document).ready(function () {
       profilePic: 'img/Teja_Rao.jpg'
     },
     {
-      name: 'Ashley Wax',
-      year: 2020,
-      position: 'Director of Student Events',
+      name: 'Haldo Treviño II',
+      year: 2019,
       school: 'KSAS',
-      major: 'International Studies; Sociology; Spanish',
-      summary: 'Ashley is a triple major in International Studies, Sociology, and Spanish. She is the assistant music director of the Sirens, JHU\'s all-female a cappella group, in addition to serving as a tutor through the Tutorial Project. She also acts as a mentor to first-year students through the Mentoring Assistance Peer Program (MAPP).',
-      profilePic: 'img/ashley_wax.jpg'
+      major: 'Neuroscience',
+      summary: 'Haldo is a neuroscience major from the Rio Grande Valley located in South Texas. He is a Gates Millennium Scholar, research assistant in the Brain Tumor Stem Cell Lab at the medical campus and a Johns Hopkins Underrepresented in Medicine Program mentor. Outside of academics, he enjoys painting and drawing with various mediums, particularly oil on canvas.',
+      profilePic: 'img/haldo_trevino.jpg'
     },
     {
-      name: 'Cecilia Vorfeld',
-      year: 2020,
+      name: 'Aliza Berger',
+      year: 2019,
       school: 'KSAS',
-      major: 'Medicine, Science, and the Humanities; Public Health',
-      summary: 'Cecilia is a Medicine, Science and Humanities (MSH) with Public Health double major, plus a minor in Italian  from Geneva, Switzerland. She currently is a member of the Kappa Alpha Theta sorority on campus and part of its Member Development Committee. Cecilia has also just completed her training for A Place To Talk, a peer-to-peer listening group on campus and looks forward to putting her new skills to use in her sophomore year, where she will begin as a First Year Mentor to the incoming freshmen.',
-      profilePic: 'img/cecilia.vorfeld.jpg'
+      major: 'International Studies',
+      summary: ' ',
+      profilePic: 'img/aliza_berger.jpg'
+    },
+    {
+      name: 'Corine Peifer',
+      year: 2019,
+      school: 'KSAS',
+      major: 'Public Health',
+      summary: 'Corine is a Public Health Studies major from Scranton, Pennsylvania. Minoring in Social Policy and Entrepreneurship & Management, she plans on pursuing a career in health policy and management. She is a member of Pi Beta Phi and Eclectics Dance, while she also holds an executive board position within the Hopkins Organization for Programming (HOP), the Hoptoberfest planning board, and the Panhellenic Association at Johns Hopkins (PAJH).',
+      profilePic: 'img/corine_peifer.jpg'
+    },
+    {
+      name: 'Shravya Gogula',
+      year: 2019,
+      school: 'WSE',
+      major: 'Biomedical Engineering',
+      summary: 'Shravya is a junior Biomedical Engineering Major and Spanish Minor on the Pre-Med track from Chicago, Illinois. She holds a position as the Committee Chair on the Biomedical Engineering Society board, and is a head volunteer for the Adult Emergency Department volunteer program that takes place at the Johns Hopkins Hospital. Shravya is also on the planning committee for MedHacks, a volunteer through Charm City Science League, a member of Kappa Kappa Gamma, and is currently doing research in a tissue engineering lab.',
+      profilePic: 'img/shravya_gogula.jpg'
     },
     {
       name: 'Elena Hughes',
@@ -133,7 +125,7 @@ $(document).ready(function () {
       profilePic: 'img/josh_russo.jpg'
     },
     {
-      name: 'William Glass',
+      name: 'Auralia Glass',
       year: 2020,
       school: 'WSE',
       major: 'Engineering Mechanics; Economics',
@@ -141,18 +133,47 @@ $(document).ready(function () {
       profilePic: 'img/William_Glass.jpg'
     },
 		{
-			name: 'Amelia Isaacs',
-			year: 2021,
-			school: 'KSAS',
-			major: 'English',
-			profilePic: 'img/amelia_isaacs.jpg'
-		},
-		{
 			name: 'Scott McGaugh',
 			year: 2020,
 			school: 'KSAS',
 			major: 'Biophysics',
 			profilePic: 'img/scott_mcgaugh.jpg'
+		},
+    {
+      name: 'Cecilia Vorfeld',
+      year: 2020,
+      school: 'KSAS',
+      major: 'Medicine, Science, and the Humanities; Public Health',
+      summary: 'Cecilia is a Medicine, Science and Humanities (MSH) with Public Health double major, plus a minor in Italian  from Geneva, Switzerland. She currently is a member of the Kappa Alpha Theta sorority on campus and part of its Member Development Committee. Cecilia has also just completed her training for A Place To Talk, a peer-to-peer listening group on campus and looks forward to putting her new skills to use in her sophomore year, where she will begin as a First Year Mentor to the incoming freshmen.',
+      profilePic: 'img/cecilia.vorfeld.jpg'
+    },
+		{
+			name: 'Arion Morshedian',
+			year: 2020,
+			school: 'KSAS',
+			major: 'Mechanical Engineering',
+			profilePic: 'img/placeholder.png'
+		},
+		{
+			name: 'Jayden Liu',
+			year: 2020,
+			school: 'KSAS',
+			major: 'Biology; International Studies',
+			profilePic: 'img/jayden_liu.jpg'
+		},
+		{
+			name: 'Megan Rutkai',
+			year: 2021,
+			school: 'KSAS',
+			major: 'International Studies; Sociology',
+			profilePic: 'img/megan_rutkai.jpg'
+		},
+		{
+			name: 'Naushil Mehta',
+			year: 2021,
+			school: 'KSAS',
+			major: 'International Studies',
+			profilePic: 'img/naushil_mehta.jpg'
 		},
 		{
 			name: 'Jessica Zhang',
@@ -183,18 +204,11 @@ $(document).ready(function () {
 			profilePic: 'img/placeholder.png'
 		},
 		{
-			name: 'Jayden Liu',
-			year: 2020,
-			school: 'KSAS',
-			major: 'Biology; International Studies',
-			profilePic: 'img/jayden_liu.jpg'
-		},
-		{
-			name: 'Naushil Mehta',
+			name: 'Amelia Isaacs',
 			year: 2021,
 			school: 'KSAS',
-			major: 'International Studies',
-			profilePic: 'img/naushil_mehta.jpg'
+			major: 'English',
+			profilePic: 'img/amelia_isaacs.jpg'
 		},
 		{
 			name: 'Lindsay Ofori',
@@ -204,24 +218,10 @@ $(document).ready(function () {
 			profilePic: 'img/placeholder.png'
 		},
 		{
-			name: 'Arion Morshedian',
-			year: 2020,
-			school: 'KSAS',
-			major: 'Mechanical Engineering',
-			profilePic: 'img/placeholder.png'
-		},
-		{
 			name: 'Malika Dia',
 			year: 2021,
 			school: 'KSAS',
 			major: 'Economics; International Studies',
-			profilePic: 'img/placeholder.png'
-		},
-		{
-			name: 'Megan Rutkai',
-			year: 2021,
-			school: 'KSAS',
-			major: 'International Studies; Sociology',
 			profilePic: 'img/placeholder.png'
 		},
   ];
