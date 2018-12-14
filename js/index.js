@@ -10,7 +10,7 @@ $(document).ready(function(){
       {
         name: 'Leena Aurora',
         year: 2019,
-        position: 'Director of Alumni Events',
+        position: 'Executive Director',
         school: 'KSAS',
         major: 'Public Health',
         summary: "Leena is a Public Health major from Lynnfield, Massachusetts. She has been dancing since the age of six, and is a member of JHU Shakti, Hopkins' Indian Classical dance team. She also volunteers with Thread, and is a member of Phi Mu. She is the co-founder and Chief Curriculum Development Officer for Yesplus at JHU, which aims to promote positive mental wellbeing to the Hopkins community as well as surrounding communities in Baltimore. She also does research with Dr. Tonia Poteat at the Bloomberg School of Public Health, primarily studying HIV and other under-studied issues amongst transgender populations.",
@@ -19,6 +19,7 @@ $(document).ready(function(){
       {
         name: 'Aaron Pultman',
         year: 2019,
+        position: 'Director of Recruitment',
         school: 'KSAS',
         major: 'International Studies',
         summary: 'Aaron is an International Studies major from Teaneck, New Jersey. He is a member of the Hopkins Interfaith Council and is the Vice President of the Hopkins Jewish Students Association. He is also the Vice President of the Hopkins College Democrats and likes to play squash in his free time.',
@@ -27,6 +28,7 @@ $(document).ready(function(){
       {
         name: 'Gurion Marks',
         year: 2019,
+        position: 'Director of Student Philanthropy Education',
         school: 'KSAS, WSE',
         major: 'Neuroscience; Computer Science',
         summary: 'Gurion is a Neuroscience and Computer Science major from New York City. He is an avid ice hockey player, competing on Hopkins’ club ice hockey team. Gurion studies scene processing at the Dynamic Perception Lab, and is an active member of Thread. When he’s not at the rink or in the lab, you’ll probably find him playing guitar or saxophone, or making his own pasta from scratch!',
@@ -43,6 +45,7 @@ $(document).ready(function(){
       {
         name: 'Alina Andrews',
         year: 2019,
+        position: 'Director of Internal Affairs',
         school: 'WSE',
         major: 'Biomedical Engineering',
         summary: 'Alina is a Biomedical Engineering major and an Africana Studies minor from Miami, FL. She is a part of the JUMP and Hop-In programs through the Office of Multicultural Affairs.  She also has a passion for travel and has studied abroad and traveled to Brazil, England, Scotland, and France. Alina hopes to combine both her academic and travel interests to start a career in Global Medicine.',
@@ -59,6 +62,7 @@ $(document).ready(function(){
       {
         name: 'Anthony Garay',
         year: 2019,
+        position: 'Director of Alumni Events',
         school: 'WSE',
         major: 'Computer Engineering',
         summary: 'Anthony is a Computer Engineering major and Entrepreneurship & Management minor from New York. In addition to being an Alumni Student Ambassador, he serves as a Senior Advisor for TEDxJHU and is the Co-Founder of TCO Labs, Inc., a 501(c)(3) student-run non-profit on a mission to foster entrepreneurship on campus. He’s also a foodie, car enthusiast, techie, avid traveler, and dog lover (he has a Golden Retriever named Regal, who is spoiled rotten).',
@@ -99,6 +103,7 @@ $(document).ready(function(){
       {
         name: 'Ashley Wax',
         year: 2020,
+        position: 'Director of Student Events',
         school: 'KSAS',
         major: 'International Studies; Sociology; Spanish',
         summary: 'Ashley is a triple major in International Studies, Sociology, and Spanish. She is the assistant music director of the Sirens, JHU\'s all-female a cappella group, in addition to serving as a tutor through the Tutorial Project. She also acts as a mentor to first-year students through the Mentoring Assistance Peer Program (MAPP).',
