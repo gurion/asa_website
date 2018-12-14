@@ -56,7 +56,7 @@ $(document).ready(function () {
       school: 'KSAS',
       major: 'International Studies',
       summary: ' ',
-      profilePic: 'img/aliza_berger.png'
+      profilePic: 'img/aliza_berger.jpg'
     },
     {
       name: 'Anthony Garay',
@@ -73,7 +73,7 @@ $(document).ready(function () {
       school: 'KSAS',
       major: 'Public Health',
       summary: 'Corine is a Public Health Studies major from Scranton, Pennsylvania. Minoring in Social Policy and Entrepreneurship & Management, she plans on pursuing a career in health policy and management. She is a member of Pi Beta Phi and Eclectics Dance, while she also holds an executive board position within the Hopkins Organization for Programming (HOP), the Hoptoberfest planning board, and the Panhellenic Association at Johns Hopkins (PAJH).',
-      profilePic: 'img/corine_peifer.png'
+      profilePic: 'img/corine_peifer.jpg'
     },
     {
       name: 'Paige Frank',
@@ -180,7 +180,7 @@ $(document).ready(function () {
 			year: 2021,
 			school: 'KSAS',
 			major: 'International Studies',
-			profilePic: 'img/placeholder.jpg'
+			profilePic: 'img/placeholder.png'
 		},
 		{
 			name: 'Jayden Liu',
@@ -201,28 +201,28 @@ $(document).ready(function () {
 			year: 2021,
 			school: 'KSAS',
 			major: 'French; International Studies',
-			profilePic: 'img/placeholder.jpg'
+			profilePic: 'img/placeholder.png'
 		},
 		{
 			name: 'Arion Morshedian',
 			year: 2020,
 			school: 'KSAS',
 			major: 'Mechanical Engineering',
-			profilePic: 'img/placeholder.jpg'
+			profilePic: 'img/placeholder.png'
 		},
 		{
 			name: 'Malika Dia',
 			year: 2021,
 			school: 'KSAS',
 			major: 'Economics; International Studies',
-			profilePic: 'img/placeholder.jpg'
+			profilePic: 'img/placeholder.png'
 		},
 		{
 			name: 'Megan Rutkai',
 			year: 2021,
 			school: 'KSAS',
 			major: 'International Studies; Sociology',
-			profilePic: 'img/placeholder.jpg'
+			profilePic: 'img/placeholder.png'
 		},
   ];
 
