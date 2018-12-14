@@ -31,7 +31,7 @@ $(document).ready(function(){
         position: 'Director of Student Philanthropy Education',
         school: 'KSAS, WSE',
         major: 'Neuroscience; Computer Science',
-        summary: 'Gurion is a Neuroscience and Computer Science major from New York City. He is an avid ice hockey player, competing on Hopkins’ club ice hockey team. Gurion studies scene processing at the Dynamic Perception Lab, and is an active member of Thread. When he’s not at the rink or in the lab, you’ll probably find him playing guitar or saxophone, or making his own pasta from scratch!',
+        summary: 'Gurion is a Neuroscience and Computer Science major from New York City. He is an avid ice hockey player, and is the captain and president of Hopkins’ club ice hockey team. Gurion studies the ways in which the brain processes physics at the Dynamic Perception Lab, and is an active member of Thread. When he’s not at the rink or in the lab, you’ll probably find him playing guitar or saxophone, or making his own pasta from scratch!',
         profilePic: 'img/Gurion.Marks.jpg'
       },
       {
