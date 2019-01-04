@@ -125,7 +125,7 @@ $(document).ready(function () {
       profilePic: 'img/josh_russo.jpg'
     },
     {
-      name: 'Auralia Glass',
+      name: 'Aurelia Glass',
       year: 2020,
       school: 'WSE',
       major: 'Engineering Mechanics; Economics',
