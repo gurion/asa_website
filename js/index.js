@@ -129,8 +129,8 @@ $(document).ready(function () {
       year: 2020,
       school: 'WSE',
       major: 'Engineering Mechanics; Economics',
-      summary: 'Will is a double major in engineering mechanics and economics from sunny Miami, Florida. Besides being an Alumni Student Ambassador, Will tutors Baltimore middle school scholars as part of the Baltimore Robotics Institute and will engage with the Hopkins music scene as a classical and jazz clarinet and saxophone player. He can frequently be found around campus practicing his photography.',
-      profilePic: 'img/William_Glass.jpg'
+      summary: 'Aurelia is a Engineering Mechanics and Economics double major from Miami. In addition to being an Ambassador, she gives prospective student tours, manages funding for the Taekwondo club, and fails repeatedly to bake the perfect loaf of sourdough bread.',
+      profilePic: 'img/aurelia_glass.jpg'
     },
 		{
 			name: 'Scott McGaugh',
